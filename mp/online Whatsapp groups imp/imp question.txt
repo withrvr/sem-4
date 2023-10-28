@@ -1,0 +1,21 @@
+⚠ Microprocessor
+1)explain memory bank of 8086 processor and working 
+2)explain following instruction :
+daa, aaa, xlat, lahf
+3)explain data cache of pentium processor/ draw block diagram
+4)explain interrupt structure of 8086 (2 times) 
+5)draw and explain timing diagram for read operation in min mode of 8086. (all time fav of paper setter)
+6)explain addressing mode of 8086(5 times )
+7)difference between min and max mode in 8086
+9)what is segmentation and give advantages . (4 times)
+10)design 8086 based on min mode system for following req :(3 times)
+a) 256kb rom using 32kb * 8 device 
+b) 512kb ram using 64kb * 8 device
+11)diff bet memory mapped i/o and i/o mapped i/o (3 times)
+12)write a short note on control register of 80386
+13)diff between real and protected mode (2 times)
+14) write an assembly line program to exchange the block of 1kb located at 01000H and 0200H using string instruction and flag resgisters. (3 times)
+15) Explain address translation mechanism used in protected mode of 80386 processor. (all time fav of paper setter)
+16) diff between real and protected mode (2 times)
+17) explain branch prediction logic / mechanism . (4 times)
+18) explain pipelining of pentium processor. (5 times){ float 4 times ; integer 1 time}

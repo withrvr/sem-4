@@ -1,0 +1,26 @@
+----- MP IMP Questions Spamming ⚠⚠ -----
+
+- Numerical on Design 8086 based system for the given requirements.
+- Explain Data Cache architecture for Pentium Processor.
+- Write addressing modes of the given instructions .
+- Explain VM, RF, IOPL, NT and TF flags of 80386 microprocessor.
+- Explain the following instructions in 8086: LAHF and XLAT.
+- Draw the block diagram of PIC8259 and discuss its operation.
+- Explain different addressing modes of 8086 microprocessor.
+- Explain the operation of three 8259 PIC in cascaded mode.
+- Differentiate real mode, protected mode and virtual mode of 80386 microprocessor.
+- Differentiate Procedure and macro with example
+- Explain the interrupt structure of 8086 microprocessors.
+- Explain the 1/0 mode control word format of 8255 PPI.
+- Give the advantages of memory segmentation of 8086 microprocessors.
+- Explain flag register of 80386 microprocessor.
+- Draw and explain memory read machine cycle timing diagram in minimum mode of 8086.
+- Draw and explain the block diagram of 8255 Programmable Peripheral Interface (PPI) with control word formats.
+- Explain an instruction issue algorithm of Pentium processor
+- Explain BS mode of 8255 PPI
+- Draw and explain maximum/ minimum mode configuration of 8086 system.
+- Write a short note on
+(1) Mixed language programming.
+(2) Cache organization of Pentium processor.
+(3) Types of interrupts 
+(4) Memory banking in 8086.

@@ -1,0 +1,23 @@
+Bh.IMPs - M.P | Computers Sem 4 | Final Sem Exams 2023
+
+1. Numerical on an 8086 based system 
+2. Advantages of memory segmentation of 8086 microprocessors.
+3. Maximum/Minimum mode configuration of the 8086 system. 
+4. Write a short note on mixed-language programming.
+5. Explain the BSR mode of 8255 PPI. 
+6. Explain the operation of three 8259 PICs in cascaded mode.
+7. Explain the I/0 mode control word format of 8255 PPI. 
+8. Explain VM, RF, IOPL, NT and TF flags of 80386 microprocessors. 
+9. Explain an instruction issue algorithm of Pentium processor 
+10.  Explain the cache organization of Pentium processor 
+11. Compare Pentium I, Pentium II and Pentium III
+12. Instruction issue algorithm of the Pentium processor. 
+13. 8255 Programmable Peripheral Interface (PPI) 
+
+These are just few questions from Bh.Questionbank, you can find full Questionbanks + Answers in the Brainheaters App.
+
+Download the App now: 
+Android App:- https://bit.ly/Brainheaters_App
+IOS App:-https://apps.apple.com/in/app/brainheaters/id1599667059
+
+Join Bh.Whatsapp Community: https://chat.whatsapp.com/DYJV4ZxWKuS8dR2WDa7O9p
